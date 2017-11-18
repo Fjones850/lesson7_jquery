@@ -13,8 +13,7 @@ Web Application Development
 (The assignemnt was great, I learned more about the Dom variants, and I ended up making some brownies.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://fjones850.github.io/lesson7_jquery/Lesson7_MyRecipe/)
 
 ### Lessons Learned in the Assignment:
 1. (The drills in part B helped with understanding the use of Dom traversal.)
